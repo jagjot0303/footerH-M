@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    /* border: 2px solid red; */
+    height: 280px;
+    width: 1365px;
+    display: flex;
+    overflow: hidden;
+}
+.div1{
+    /* border: 2px solid yellow; */
+    height: 150px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.div1 a{
+    text-decoration: none;
+    color: black;
+}
+.div1 ul{
+    margin-top: 20px;
+}
+.div1 ul li{
+    margin-top: 6px;
+    list-style: none;
+    
+}
+.div2{
+    /* border: 2px solid yellow; */
+    height: 190px;
+    width: 340px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.div2 ul{
+    margin-top: 20px;
+}
+.div2 ul li{
+    margin-top: 6px;
+    list-style: none;    
+}
+.div2 a{
+    text-decoration: none;
+    color: black;
+}
+.div3{
+    /* border: 2px solid yellow; */
+    height: 250px;
+    width: 290px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.div3 ul{
+    margin-top: 24px;
+}
+.div3 ul li{
+    margin-top: 6px;
+    list-style: none;    
+}
+.div3 a{
+    text-decoration: none;
+    color: black;
+}
+.div4{
+    /* border: 2px solid yellow; */
+    height: 250px;
+    width: 355px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.div4 p{
+    /* border: 2px solid green; */
+    margin-top: 20px;
+}
+.div4 a{
+    text-decoration: none;
+    color: black;
+  text-decoration: underline;
+}
+.logo{
+    margin-left: 20px;
+}
+.logo img{
+  height: 50px;
+  width: 80px;
+
+}
+.div5{
+    /* border: 2px solid greenyellow; */
+    height:70px;
+    width: 1330px;
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.div5 button{
+    border: none;
+    background-color: white;
+    text-decoration: underline;
+    font-size: 16px;
+    
+}
+.div6{
+ /* border: 2px solid red; */
+ width: 1330px;
+ margin-left: 20px;
+}
+.one{
+    font-size: 13px;
+}
+p i{
+    float: right;
+    /* margin-left: 30px; */
+    font-size: 20px;
+    margin-right: 20px;
+}
+i:hover{
+   color: lightgray;
+   cursor: pointer;
+}
